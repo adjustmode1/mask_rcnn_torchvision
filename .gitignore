@@ -8,14 +8,6 @@ torchvision/version.py
 */**/*.pyc
 */**/**/*.pyc
 */**/*~
-*~
 docs/build
 .coverage
 htmlcov
-.*.swp
-*.so*
-*.dylib*
-*/*.so*
-*/*.dylib*
-*.swp
-*.swo
